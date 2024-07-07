@@ -5,4 +5,4 @@
 
 感谢分流规则[blackmatrix7](https://github.com/blackmatrix7),感谢surge长期维护者[Rabbit](https://github.com/Rabbit-Spec)
 
-[鸭哥926](https://raw.githubusercontent.com/kevin198346/Openclash-/main/鸭哥926.yaml)
+配置下载[鸭哥926](https://raw.githubusercontent.com/kevin198346/Openclash-/main/鸭哥926.yaml)
