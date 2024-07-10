@@ -210,7 +210,6 @@ dns:
   proxy-server-nameserver:
     - https://dns.alidns.com/dns-query
     - https://dns.pub/dns-query
-  cache: true    
 
   fake-ip-filter:
     - "*.lan"
